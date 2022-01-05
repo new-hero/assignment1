@@ -92,7 +92,7 @@ footer{
 }
 ul{
     list-style-type: none;
-    font-size: 20px;
+    font-size: 25px;
 }
 ul li{
     margin: 10px 0;
@@ -106,5 +106,5 @@ ul li a{
     border-image-slice: 1;
 }
 .mt{
-    margin-top: 40px;
+    margin-top: 100px;
 }
