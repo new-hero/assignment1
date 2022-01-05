@@ -96,10 +96,15 @@ ul{
 }
 ul li{
     margin: 10px 0;
-
-
 }
 ul li a{
     text-decoration: none;
-
+}
+.added-sec img{
+    border-left: 7px solid;
+    border-image: linear-gradient(white,salmon);
+    border-image-slice: 1;
+}
+.mt{
+    margin-top: 40px;
 }
